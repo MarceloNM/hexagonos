@@ -1,0 +1,59 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+}*/
+
+/*.parent {
+ display: grid;
+grid-template-columns: repeat(10, 1fr);
+grid-template-rows: repeat(8, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+width: min-content;
+height:min-content;
+}
+
+
+div{
+    border: 0px solid gainsboro;
+    height: 12.5px;
+}
+
+.fina {
+    width: 73px;
+    background-color: #013A6B;
+    background-image: linear-gradient(to right top, grey 50%, brown 50%);
+}
+.finaue {
+    width: 7.3px;
+    background-image: linear-gradient(to left top, grey 50%, brown 50%);
+} */
+/*
+.finadd {
+    width: 73px;
+    background: linear-gradient(to right top, grey 50%, brown 30%);
+}
+.finade {
+    width: 73px;
+    background: linear-gradient(to left top, brown 50%, grey 50%);
+}
+.finaud {
+    width: 73px;
+    background: linear-gradient(to right top, brown 50%, grey 50%);
+}
+.largag {
+    width: 145px;
+    background-color: grey;
+}
+.largab {
+    width: 145px;
+    background-color: brown;
+}
+*/
+/*.d00 { grid-area: 1 / 1 / 2 / 2; }
+.d01 { grid-area: 1 / 2 / 2 / 4; }
+.d02 { grid-area: 1 / 4 / 2 / 5; }
+.d03 { grid-area: 1 / 5 / 2 / 7; }
+.d04 { grid-area: 1 / 7 / 2 / 8; }
+.d05 { grid-area: 1 / 8 / 2 / 10; }
+.d06 { grid-area: 1 / 10 / 2 / 11; }*/
